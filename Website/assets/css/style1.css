@@ -60,9 +60,9 @@
 .icons img {
 	max-width: 50px;
 	border-radius: 20%;
-	opacity: 50%;
+	opacity: 0.5;
 }
 
-.icons: img:hover {
-	opacity: 50%;
+.icons img:hover {
+	opacity: 1;
 }
